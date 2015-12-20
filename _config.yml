@@ -1,0 +1,28 @@
+name: Calton
+favicon: null
+layout_spectrum: 0.3107865594793111
+typography_spectrum: 0.9816145417280495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10389767563901842
+  lightness: 0.7853162542451173
+  saturation: 0.9773615719750524
+  rhythmicContrast: 0.44435367081314325
+purpose: []
